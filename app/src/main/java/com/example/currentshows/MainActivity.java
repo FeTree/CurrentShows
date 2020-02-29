@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
         listView.setOnItemClickListener(this);
 
-        //github desktop commit check
+        //github desktop commit check master 
     }
 
     @Override

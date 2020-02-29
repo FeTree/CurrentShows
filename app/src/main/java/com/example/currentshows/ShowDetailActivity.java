@@ -19,6 +19,8 @@ public class ShowDetailActivity extends AppCompatActivity {
     Show barry = new Show("Barry", "Station/Streaming Service: HBOgo", "11/28", "https://www.imdb.com/title/tt5348176/", "https://www.reddit.com/r/Barry/");
 
 
+    //test github 555
+
     // fields
     TextView showTitle;
     ImageView imageView;
